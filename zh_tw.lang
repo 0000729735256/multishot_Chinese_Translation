@@ -1,0 +1,125 @@
+language.name=繁體中文
+language.region=TW
+language.code=zh_TW
+
+multishot.category=多連拍設定
+
+multishot.key.menu=多連拍選單
+multishot.key.startstop=開始/停止多連拍
+multishot.key.motion=運動開關
+multishot.key.pause=暫停/繼續
+multishot.key.lock=鎖定控制開關
+multishot.key.hidegui=隱藏GUI開關
+
+multishot.gui.info.scroll=提示: 按住Ctrl和/或Shift點擊或滑鼠滾輪捲動按鈕
+
+multishot.gui.info.keys.notepause=注意: 此處的「暫停鍵」指的是多連拍暫停的快捷鍵!
+multishot.gui.info.keys.togglemotion=運動鍵: 開啟/關閉運動
+multishot.gui.info.keys.togglerecording=錄製鍵: 開啟/關閉錄製
+multishot.gui.info.keys.pause.recording=暫停鍵(移動/錄製中): 暫停或繼續錄製(如果運動已開啟，也會暫停運動)
+multishot.gui.info.keys.pause.notrecording=暫停鍵(未移動/錄製): 在当前位置添加新的路徑點，包括觀看方向
+
+multishot.gui.info.keys.setcenterpoint=HOME + 暫停鍵: 設置中心點
+multishot.gui.info.keys.settargetpoint=END + 暫停鍵: 設置(攝影機)目標點
+multishot.gui.info.keys.removecenterpoint=DEL + HOME + 暫停鍵: 移除中心點
+multishot.gui.info.keys.removetargetpoint=DEL + END + 暫停鍵: 移除目標點
+multishot.gui.info.keys.removeallpoints=DEL + Ctrl + 暫停鍵: 移除所有點
+
+multishot.gui.info.keys.reloadpath=UP + DOWN 鍵 + 暫停鍵: 從檔案重新載入活動路徑
+multishot.gui.info.keys.nextpath=UP + 暫停鍵: 選擇下一個路徑(= +1)
+multishot.gui.info.keys.previouspath=DOWN + 暫停鍵: 選擇上一個路徑(= -1)
+multishot.gui.info.keys.reversepathdirection=HOME + END + 暫停鍵: 反轉活動路徑的行進方向
+
+multishot.gui.info.keys.movetopathstart=Ctrl + 運動鍵: 移到路徑起點
+multishot.gui.info.keys.movetoclosestpathpoint=Shift + 運動鍵: 移到最近的路徑點
+multishot.gui.info.keys.insertpointbefore=INSERT + HOME + 暫停鍵: 在高亮點之前插入新的路徑點
+multishot.gui.info.keys.insertpointafter=INSERT + 暫停鍵: 在高亮點之後插入新的路徑點
+multishot.gui.info.keys.removenearestpoint=DEL + 暫停鍵: 移除最近(=高亮)的路徑點
+multishot.gui.info.keys.storepathpoint=Ctrl + 多連拍選單鍵: 「儲存」最近(=高亮)的路徑點
+multishot.gui.info.keys.movepathpoint=Ctrl + 暫停鍵: 將先前「儲存」的路徑點移到当前位置
+
+multishot.gui.label.bottom=底部
+multishot.gui.label.off=關閉
+multishot.gui.label.left=左側
+multishot.gui.label.linear=線性
+multishot.gui.label.motion.mode.linear=線性
+multishot.gui.label.motion.mode.circle=圓形
+multishot.gui.label.motion.mode.ellipse=(開發中)橢圓形
+multishot.gui.label.motion.mode.path.linear=路徑(線性)
+multishot.gui.label.motion.mode.path.smooth=(開發中)路徑(平滑)
+multishot.gui.label.nonlinear=非線性
+multishot.gui.label.on=開啟
+multishot.gui.label.right=右側
+multishot.gui.label.real=實際
+multishot.gui.label.real.time=實際時間
+multishot.gui.label.save.path=儲存路徑(複製到剪貼簿，右鍵點擊按鈕更改)
+multishot.gui.label.screenshots=截圖
+multishot.gui.label.shot=張
+multishot.gui.label.shots=張
+multishot.gui.label.size.estimate=大小估計
+multishot.gui.label.toolong=你的路徑設置了什麼？似乎有點長...
+multishot.gui.label.top=頂部
+multishot.gui.label.video=影片
+
+multishot.gui.label.settings=多連拍設定
+
+multishot.gui.label.button.backtogame=回到遊戲
+multishot.gui.label.button.camera=攝影機
+multishot.gui.label.button.generic=通用
+multishot.gui.label.button.motion=運動
+
+multishot.gui.label.button.multishot.enabled=多連拍啟用
+multishot.gui.label.button.motion.enabled=運動啟用
+multishot.gui.label.button.lock.controls=鎖定控制
+multishot.gui.label.button.hide.gui=隱藏多連拍GUI
+multishot.gui.label.button.interval=截圖間隔
+multishot.gui.label.button.zoom=縮放
+multishot.gui.label.button.timer.selection=錄製計時器
+multishot.gui.label.button.motion.mode=模式
+multishot.gui.label.button.motion.x=X運動
+multishot.gui.label.button.motion.y=Y運動
+multishot.gui.label.button.motion.z=Z運動
+multishot.gui.label.button.rotation.yaw=偏航旋轉
+multishot.gui.label.button.rotation.pitch=俯仰旋轉
+multishot.gui.label.button.motion.speed=速度
+multishot.gui.label.button.browse=貼上路徑
+multishot.gui.label.button.img.format=
+multishot.gui.label.button.gui.position=GUI位置
+multishot.gui.label.button.load.defaults=載入預設值
+multishot.gui.label.button.use.free.camera=自由攝影機
+multishot.gui.label.button.free.camera.height=高度
+multishot.gui.label.button.free.camera.width=寬度
+
+
+multishot.gui.message.add.point.invalid.index=錯誤: 無法新增第#%d個點，無效索引
+multishot.gui.message.added.circle.center=在位置新增了圓心點
+multishot.gui.message.added.circle.target.point=在位置新增了圓目標點
+multishot.gui.message.added.ellipse.center=在位置新增了橢圓中心點
+multishot.gui.message.added.ellipse.longer.axis=在位置新增了橢圓長軸點
+multishot.gui.message.added.ellipse.target.point=在位置新增了橢圓目標點
+multishot.gui.message.added.path.target.point=在位置新增了路徑目標點
+multishot.gui.message.added.point=在位置新增了第#%d個點
+multishot.gui.message.changed.active.path=已變更活動路徑為第#%d個(%d個點)
+multishot.gui.message.error.cant.move.invalid.index=錯誤: 無法移動第#%d個點，無效索引
+multishot.gui.message.error.cant.move.no.point.selected=錯誤: 無法移動點，沒有選擇點!
+multishot.gui.message.error.no.path.points.set=錯誤: 未設置路徑點!
+multishot.gui.message.error.no.points=錯誤: 沒有路徑點存在!
+multishot.gui.message.error.startmotion.no.circle.center=startMotion(): 錯誤: 圓心點未設置!
+multishot.gui.message.inserted.point=在位置插入了第#%d個點
+multishot.gui.message.moved.point=將第#%d個點移到
+multishot.gui.message.normal=正常
+multishot.gui.message.path.cleared=路徑#%d清除
+multishot.gui.message.reloaded.path=從檔案重新載入了路徑#%d(%d個點)
+multishot.gui.message.reload.path.fail=無法從檔案重新載入路徑#%d
+multishot.gui.message.remove.point.invalid.index=錯誤: 無法移除第#%d個點，無效索引
+multishot.gui.message.remove.point.failed=錯誤: 無法移除第#%d個點
+multishot.gui.message.removed.circle.center=移除了圓心點
+multishot.gui.message.removed.ellipse.center=移除了橢圓中心點
+multishot.gui.message.removed.circle.target=移除了圓目標點
+multishot.gui.message.removed.ellipse.target=移除了橢圓目標點
+multishot.gui.message.removed.path.target=移除了路徑目標點
+multishot.gui.message.removed.point=移除了第#%d個點
+multishot.gui.message.replace.point.invalid.index=錯誤: 無法替換第#%d個點，無效索引
+multishot.gui.message.reversed=反轉
+multishot.gui.message.set.path.traveling.direction=設置路徑行進方向為
+multishot.gui.message.stored.point=儲存了第#%d個點
